@@ -1,1 +1,4 @@
 # gg-test
+
+foo
+bar
